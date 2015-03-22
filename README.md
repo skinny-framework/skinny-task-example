@@ -8,7 +8,8 @@ skinny-task has the following out-of-the-box generators:
 
 https://github.com/skinny-framework/skinny-framework/blob/master/task/src/main/scala/skinny/task/DefaultTaskLauncher.scala
 
-Especially reverse-xxx generators will help you a lot when bootstrapping new application with existing database tables.
+Especially reverse-xxx generators will help you a lot when bootstrapping new application which works with existing database tables.
+
 Seeing is believing. Let's get started with skinny's useful generators.
 
 ### Project Structure
