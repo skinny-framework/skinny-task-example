@@ -1,8 +1,8 @@
-scalaVersion := "2.12.4"
+scalaVersion := "2.12.6"
 
 libraryDependencies ++= Seq(
-  "org.skinny-framework" %% "skinny-orm"        % "2.6.+",
-  "org.skinny-framework" %% "skinny-task"       % "2.6.+",
+  "org.skinny-framework" %% "skinny-orm"        % "3.0.+",
+  "org.skinny-framework" %% "skinny-task"       % "3.0.+",
   "com.h2database"       %  "h2"                % "1.4.+",
   "ch.qos.logback"       %  "logback-classic"   % "1.2.+"
 )
